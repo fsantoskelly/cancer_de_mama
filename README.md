@@ -75,8 +75,10 @@ A matriz de confusão foi criada para exibir o relatório de classificação  e 
 
 ##  📝Considerações Finais
 
-🔹 O modelo de regressão logística apresentou um desempenho bom para este problema de diagnóstico de câncer, com uma alta taxa de recall (90%), o que significa que ele identifica corretamente a maioria dos casos de câncer. 
+🔹 O modelo de regressão logística apresentou um desempenho bom para este problema de diagnóstico de câncer, com uma alta taxa de recall (90%), o que significa que ele identifica corretamente a maioria dos casos de câncer.
+
 🔹A precisão poderia ser melhorada para reduzir o número de falsos positivos, mas a alta taxa de recall é um bom indicativo de que o modelo é útil para diagnóstico precoce, onde a prioridade é identificar a presença de câncer.
+
 💡 O modelo de regressão logística é eficaz e fornece uma boa base para a sugestão de diagnóstico de câncer. A capacidade do modelo de identificar a presença de câncer (alta taxa de recall), sendo, portanto, uma boa ferramenta para auxílio diagnóstico em um contexto médico, onde são avaliados outros sinais, sintomas e parâmetros para fechamento do diagnóstico. No entanto, melhorias podem ser feitas para reduzir os falsos positivos e aumentar a precisão do modelo, garantindo uma melhor confiança nos diagnósticos feitos.
 
 
