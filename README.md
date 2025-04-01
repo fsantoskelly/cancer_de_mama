@@ -1,6 +1,7 @@
 # Modelo para diagnóstico de câncer de mama
 
 👩‍💻 Autor: Kelly Ferreira
+
 🛠️ Linguagem: Python
 
 Fonte do Dataset: [Kaggle](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset?resource=download)
