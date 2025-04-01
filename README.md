@@ -4,6 +4,8 @@
 
 🛠️ Linguagem: Python
 
+📈 Desenvolvido durante a Trilha Data Science - ADA Tech
+
 Fonte do Dataset: [Kaggle](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset?resource=download)
 
 ## Objetivo do Modelo
